@@ -15,7 +15,7 @@
 
 ### Compound Interest on _all Balances_
 
-Interest is paid on all outputs (Balances) and compounded on each block. This is to discourage rolling outputs into new blocks simply to compound interest.
+> Interest is paid on all outputs (Balances) and compounded on each block. This is to discourage rolling outputs into new blocks simply to compound interest.
 
 ### Benefits:
 
@@ -44,14 +44,14 @@ Interest is paid on all outputs (Balances) and compounded on each block. This is
 
 > - The PoW Algorithm is considered a technical detail and is subject to change to favor CPU and consumer grade hardware with the intention of keeping mining participatory and distributed.
 
-> **Specifications:**
+### Specifications:
 
- - 1 MB Blocksize
- - Max TX is 250 KB ( ~ 1500 TXs)
- - COINBASE_MATURITY = 360;
- - 120 second blocks
- - 120 ROI subsidy per block (no halving)
- - Total of 1,000,000,000 ROI will be mined over a 30 year period (7,884,000 blocks) or 86,400 coins per day.
+> - 1 MB Blocksize
+> - Max TX is 250 KB ( ~ 1500 TXs)
+> - COINBASE_MATURITY = 360;
+> - 120 second blocks
+> - 120 ROI subsidy per block (no halving)
+> - Total of 1,000,000,000 ROI will be mined over a 30 year period (7,884,000 blocks) or 86,400 coins per day.
 
 ## Term Deposits
 
@@ -77,9 +77,9 @@ Term     | % of Total APR
 
 ASIC/GPU resistant. Pattern Search involves filling up RAM with pseudo-random data, and then conducting a search for the start location of an AES encrypted data pattern in that data. Pattern Search is an evolution of the ProtoShares Momentum PoW, first used in MemoryCoin and later modified for use in CryptoNote (Monero,Bytecoin), Ethash(Ethereum), and ROI Coin.
 
-# ROI Coin Ubuntu Compile Dependencies
+## ROI Coin Ubuntu Compile Dependencies
 
-## Compiling on Ubuntu (16.04 tested)):
+### Compiling on Ubuntu (16.04 tested)):
 
 ### Preparing your environment
 

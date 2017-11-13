@@ -174,14 +174,9 @@ nano ROIcoin.conf
 __The minimum recommended entries for the conf file are as follows:__
 
 rpcuser=xxxx  (Replace the strings of 'xxxx' with preferred data.)
-
 rpcpassword=xxxx
-
 rpcport=3377
-
 daemon=1
-
 server=1
-
 listen=1
 

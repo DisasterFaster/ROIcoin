@@ -75,9 +75,9 @@
 
 ## Proof of Work
 
-### 1GB AES Pattern Search PoW
+### 1GB AES Pattern Search PoW (HOdl)
 
-ASIC/GPU resistant. Pattern Search involves filling up RAM with pseudo-random data, and then conducting a search for the start location of an AES encrypted data pattern in that data. Pattern Search is an evolution of the ProtoShares Momentum PoW, first used in MemoryCoin and later modified for use in CryptoNote (Monero,Bytecoin), Ethash(Ethereum), and ROI Coin.
+ASIC/GPU resistant. Pattern Search involves filling up RAM with pseudo-random data, and then conducting a search for the start location of an AES encrypted data pattern in that data. Pattern Search is an evolution of the ProtoShares Momentum PoW, first used in MemoryCoin and later modified for use in CryptoNote (Monero,Bytecoin), Ethash(Ethereum), HOdl Coin, EuropeCoin and now ROI Coin.
 
 ## ROI Coin Ubuntu Compile Dependencies
 

@@ -30,7 +30,7 @@ unsigned int static DarkGravityWave(const CBlockIndex* pindexLast, const Consens
     }
 
     //25 blocks of small diff to reset diff after fork
-    if (BlockLastSolved->nHeight+1 >= 0 && BlockLastSolved->nHeight< 7884000 +PastBlocksMin+1) {
+    if (BlockLastSolved->nHeight+1 >= 0 && BlockLastSolved->nHeight< FORK1HEIGHT+PastBlocksMin+1) {
         return UintToArith256(uint256S("0000F00000000000000000000000000000000000000000000000000000000000")).GetCompact();
     }
 

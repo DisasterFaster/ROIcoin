@@ -13,7 +13,7 @@
 #include "hash.h"
 #include "tinyformat.h"
 #include "utilstrencodings.h"
-#include "math.h"
+// This file is nonexistent at this time.  #include "math.h"
 
 #include "test/bignum.h"
 

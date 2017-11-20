@@ -40,7 +40,7 @@ void initRateTable(){
     bonusTable[0]=1;
     bonusTable[0]=bonusTable[0]<<52;
 
-    //Interest rate on each block 1+(1/2^22)
+    //Interest rate on each block 1+(1/2^18)
     for(int i=1;i<ONEYEARPLUS1;i++){
         rateTable[i]=rateTable[i-1]+(rateTable[i-1]>>18);
         bonusTable[i]=bonusTable[i-1]+(bonusTable[i-1]>>16);

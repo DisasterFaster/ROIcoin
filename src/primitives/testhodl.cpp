@@ -111,5 +111,5 @@ int main(int argc, char* argv[])
 
   CAmount interest = GetInterest(principal, blockheight , (blockheight+termblocks), (blockheight+termblocks));
 
-  printf("result HODL for %li RIO at %li term_blocks BONUS:%li RATE:%li INTEREST:%li \n",principal,termblocks,bonus,rate,interest);
+  printf("result HODL for %li HODL at %li term_blocks BONUS:%li RATE:%li INTEREST:%li \n",principal,termblocks,bonus,rate,interest);
 }

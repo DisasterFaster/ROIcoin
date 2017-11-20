@@ -68,7 +68,7 @@ CAmount GetInterest(CAmount nValue, int outputBlockHeight, int valuationHeight, 
         CBigNum am(bonusAmount);
         CBigNum fac(TWOYEARS); //-outputBlockHeight);
         CBigNum div(TWOYEARS);
-        CBigNum result=  ((am*fac*fac*fac*fac)/(div*div*div*div))/2;
+        CBigNum result=  ((am*fac*fac*fac*fac)/(div*div*div*div))/80;
         bonusAmount=result.getuint64();
     }
 

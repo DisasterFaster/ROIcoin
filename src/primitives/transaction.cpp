@@ -187,13 +187,13 @@ std::string initRateTable(){
     std::string str;
 
     rateTable[0]=1;
-    rateTable[0]=rateTable[0]<<60;
+    rateTable[0]=rateTable[0]<<62;
     bonusTable[0]=1;
-    bonusTable[0]=bonusTable[0]<<52;
+    bonusTable[0]=bonusTable[0]<<54;
 
     //Interest rate on each block 1+(1/2^22)
     for(int i=1;i<ONEYEARPLUS1;i++){
-        rateTable[i]=rateTable[i-1]+(rateTable[i-1]>>18);
+        rateTable[i]=rateTable[i-1]+(rateTable[i-1]>>22);
         bonusTable[i]=bonusTable[i-1]+(bonusTable[i-1]>>16);
         str += strprintf("%d %x %x\n",i,rateTable[i], bonusTable[i]);
     }
@@ -233,9 +233,9 @@ CAmount GetInterest(CAmount nValue, int outputBlockHeight, int valuationHeight, 
         //Calculate bonus rate based on outputBlockHeight
         bonusAmount=getBonusForAmount(blocks, nValue);
         CBigNum am(bonusAmount);
-        CBigNum fac(TWOYEARS-outputBlockHeight);
+        CBigNum fac(TWOYEARS);
         CBigNum div(TWOYEARS);
-        CBigNum result= am - ((am*fac*fac*fac*fac)/(div*div*div*div));
+        CBigNum result= ((am*fac*fac*fac*fac)/(div*div*div*div))/2;
         bonusAmount=result.getuint64();
     }
 

@@ -9,7 +9,7 @@
 /* #undef AC_APPLE_UNIVERSAL_BUILD */
 
 /* Version Build */
-#define CLIENT_VERSION_BUILD 7
+#define CLIENT_VERSION_BUILD 0
 
 /* Version is release */
 #define CLIENT_VERSION_IS_RELEASE true
@@ -18,10 +18,10 @@
 #define CLIENT_VERSION_MAJOR 1
 
 /* Minor version */
-#define CLIENT_VERSION_MINOR 0
+#define CLIENT_VERSION_MINOR 1
 
 /* Build revision */
-#define CLIENT_VERSION_REVISION 2
+#define CLIENT_VERSION_REVISION 0
 
 /* Version is release */
 #define COPYRIGHT_YEAR 2017
@@ -51,7 +51,7 @@
 #define HAVE_BOOST_THREAD /**/
 
 /* define if the Boost::Unit_Test_Framework library is available */
-#define HAVE_BOOST_UNIT_TEST_FRAMEWORK /**/
+/* #undef HAVE_BOOST_UNIT_TEST_FRAMEWORK */
 
 /* Define to 1 if you have the <byteswap.h> header file. */
 #define HAVE_BYTESWAP_H 1

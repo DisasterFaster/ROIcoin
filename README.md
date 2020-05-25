@@ -5,7 +5,7 @@
 > * __Website:__ [https://roi-coin.com](https://roi-coin.com)
 > * __Facebook:__ [https://www.facebook.com/roicoin](https://www.facebook.com/roicoin)
 > * __Twitter:__ [https://twitter.com/ROI_Coin](https://twitter.com/ROI_Coin)
-> * __Discord:__ [https://discord.gg/ruhSp4e](https://discord.gg/ruhSp4e
+> * __Discord:__ [https://discord.gg/ruhSp4e](https://discord.gg/ruhSp4e)
 > * __Telegram:__ [https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ](https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ)
 > * __YouTube:__ [https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g](https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g)
 

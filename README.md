@@ -1,17 +1,18 @@
 # **ROI Coin is _"Return on Investment"_** 
 
-<img src="https://roi-coin.com/ow_userfiles/themes/theme_image_17.png?w1720=&h=521" width="1720">
+<img src="https://roi-coin.com/wp-content/uploads/2018/04/roi-coin-marketing-graphics-1.jpg?w1500=&h=500" width="1500">
 
 > * __Website:__ [https://roi-coin.com](https://roi-coin.com)
 > * __Facebook:__ [https://www.facebook.com/roicoin](https://www.facebook.com/roicoin)
 > * __Twitter:__ [https://twitter.com/ROI_Coin](https://twitter.com/ROI_Coin)
-> * __Google Plus:__ [https://plus.google.com/b/109809615316952270396/109809615316952270396](https://plus.google.com/b/109809615316952270396/109809615316952270396)
+> * __Discord:__ [https://discord.gg/ruhSp4e](https://discord.gg/ruhSp4e
+> * __Telegram:__ [https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ](https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ)
 > * __YouTube:__ [https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g](https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g)
 
 ## What is ROI Coin?
 
 > **ROI Coin** is a Cryptocurrency built on the ROI Coin core ver. 11.3, incorporating HOdl PoS to reward savers.  
-> It pays interest on every balance as well as higher interest rates for locked term deposits and that is precisely why ROI Coin is Return on Investment.
+> It pays interest on every balance as well as higher interest rates for locked term deposits and that is precisely why ROI Coin is different.
 
 ### Compound Interest on _all Balances_
 
@@ -58,12 +59,12 @@
 
 | Time     | Start Coins | End Coins | Coin Gain | Interest |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
-| 1 week  | 100 | 102.277 | 2.277 | 2.28% |
-| 2 weeks  | 100 | 104.846 | 4.846 | 4.85% |
-| 1 month  | 100 | 111.796 | 11.796 | 11.80% |
-| 3 months  | 100 | 150.433 | 50.433 | 50.43% |
-| 6 months   | 100 | 246.898 | 146.898 | 146.90% |
-| 12 months | 100 | 733.923 | 633.923 | 633.92% |
+| 1 week  | 100 | 100.592 | .592 | .59% |
+| 2 weeks  | 100 | 101.163 | 1.163 | 1.16% |
+| 1 month  | 100 | 102.397 | 2.397 | 2.40% |
+| 3 months  | 100 | 106.280 | 6.280 | 6.28% |
+| 6 months   | 100 | 110.646 | 10.646 | 10.65% |
+| 12 months | 100 | 118.065 | 18.065 | 18.07% |
 
 
 

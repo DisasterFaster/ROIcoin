@@ -1,4 +1,4 @@
-# **ROI Coin is _"Return on Investment"_** 
+# **ROI Coin is _"Different"_** 
 
 <img src="https://roi-coin.com/wp-content/uploads/2018/04/roi-coin-marketing-graphics-1.jpg?w1500=&h=500" width="1500">
 
@@ -8,6 +8,13 @@
 > * __Discord:__ [https://discord.gg/ruhSp4e](https://discord.gg/ruhSp4e)
 > * __Telegram:__ [https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ](https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ)
 > * __YouTube:__ [https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g](https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g)
+
+## ROI Coin Resources
+> * __Block Explorer 1:__ [https://roi-coin-blockexplorer.roi-coin.com](https://roi-coin-blockexplorer.roi-coin.com)
+> * __Block Explorer 2:__ [https://blockexplorer.roi-coin.com](https://blockexplorer.roi-coin.com)
+> * __AltMarkets Exchange:__ [https://altmarkets.io/trading/roibtc](https://altmarkets.io/trading/roibtc)
+> * __BitexLive Exchange:__ [https://bitexlive.com/exchange/USDT-ROI](https://bitexlive.com/exchange/USDT-ROI)
+> * __SuprNova Mining Pool:__ [https://roi.suprnova.cc](https://roi.suprnova.cc)
 
 ## What is ROI Coin?
 
